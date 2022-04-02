@@ -1,0 +1,73 @@
+site_name: CP1
+
+theme:
+    name: material
+    icon:
+        admonition:
+            note: octicons/tag-16
+            abstract: octicons/checklist-16
+            info: octicons/info-16
+            tip: octicons/squirrel-16
+            success: octicons/check-16
+            question: octicons/question-16
+            warning: octicons/alert-16
+            failure: octicons/x-circle-16
+            danger: octicons/zap-16
+            bug: octicons/bug-16
+            example: octicons/beaker-16
+            quote: octicons/quote-16
+
+plugins:
+    - search
+
+markdown_extensions:
+    - admonition
+
+nav:
+    - Overview: index.md
+    - Environment: environment.md
+    - Liabilities: liabilities.md
+    - Assets: assets.md
+    - Risk: risk.md
+    - Capital: capital.md
+    - "Ch01: Actuarial Advice": 01-actuarial-advice.md
+    - "Ch02: External Environment": 02-external-environment.md
+    - "Ch03: Regulation": 03-regulation.md
+    - "Ch04: Financial Products and Customer Need": 04-financial-products-and-customer-need.md
+    - "Ch05: Benefits and Providers of Benefits": 05-benefits-and-providers-of-benefits.md
+    - "Ch06: Life Insurance Products": 06-life-insurance-products.md
+    - "Ch07: General Insurance Products": 07-general-insurance-products.md
+    - "Ch08: Bond and Money Markets": 08-bond-and-money-markets.md
+    - "Ch09: Equity and Property Markets": 09-equity-and-property-markets.md
+    - "Ch10: Other Investment Classes": 10-other-investment-classes.md
+    - "Ch11: Behaviour of the Markets": 11-behaviour-of-the-markets.md
+    - "Ch12: Valuation of Investments": 12-valuation-of-investments.md
+    - "Ch13: Relationships Between Returns on Asset Classes": 13-relationship-between-returns-on-asset-classes.md
+    - "Ch14: Choosing an Appropriate Investment Strategy": 14-choosing-an-appropriate-investment-strategy.md
+    - "Ch15: Asset-Liability Management": 15-asset-liability-management.md
+    - "Ch16: Investment Management": 16-investment-management.md
+    - "Ch17: Modelling": 17-modelling.md
+    - "Ch18: Data": 18-data.md
+    - "Ch19: Setting Assumptions": 19-setting-assumptions.md
+    - "Ch20: Mortality and Morbidity": 20-mortality-and-morbidity.md
+    - "Ch21: Expenses": 21-expenses.md
+    - "Ch22: Contract Design": 22-contract-design.md
+    - "Ch23: Pricing and Finance": 23-pricing-and-finance.md
+    - "Ch24: Risk Governance": 24-risk-governance.md
+    - "Ch25: Risk Identification and Classification": 25-risk-identification-and-classification.md
+    - "Ch26: Product and Benefit Scheme Risks": 26-product-and-benefit-scheme-risks.md
+    - "Ch27: Accepting Risk": 27-accepting-risk.md
+    - "Ch28: Risk Measurement and Reporting": 28-risk-measurement-and-reporting.md
+    - "Ch29: Risk Transfer": 29-risk-transfer.md
+    - "Ch30: Other Risk Controls": 30-other-risk-controls.md
+    - "Ch31: Provisions": 31-provisions.md
+    - "Ch32: Valuation of Liabilities": 32-valuation-of-liabilities.md
+    - "Ch33: Reporting Results": 33-reporting-results.md
+    - "Ch34: Insolvency and Closure": 34-insolvency-and-closure.md
+    - "Ch35: Capital Management": 35-capital-management.md
+    - "Ch36: Capital Requirements": 36-capital-requirements.md
+    - "Ch37: Surplus and Surplus Management": 37-surplus-and-surplus-management.md
+    - "Ch38: Monitoring": 38-monitoring.md
+    - "2018 April Paper 2": 40-2018-04-02.md
+    - "2019 April Paper 2": 40-2019-04-02.md
+    - "2019 September Paper 2": 40-2019-09-02.md

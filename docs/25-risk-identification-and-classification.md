@@ -17,6 +17,8 @@ eperts
 
 ## Risk categories
 
+[2019 September Paper 2 Q2-ii](40-2019-09-02.md#2-ii)
+
 - Market
 - Credit
 - Liquidity
@@ -24,7 +26,7 @@ eperts
 - Operational
 - External
 
-## Market risk
+### Market risk
 
 Related to changes in investment market values or other features correlated
 with investment markets.
@@ -33,7 +35,7 @@ with investment markets.
 - Investment market value changes on liabilities
 - Mismatching assets and liabilities
 
-## Credit risk
+### Credit risk
 
 Failure of third parties to meet their obligations.
 
@@ -46,7 +48,7 @@ Security is a way of reducing credit risk when lending money to a third party.
 Credit ratings are an indication of credit worthiness i.e. the liklihood of
 default.
 
-## Liquidity risk
+### Liquidity risk
 
 Risk that, while the entity may be solvent, the entity may not be able to meet
 obligations as they fall due (or can only secure resources at excessive cost).
@@ -57,7 +59,7 @@ adverse price effect.
 Liquidity, how quickly an asset can be turned into cash at a predictable price),
 is not the same as marketability (how easy it is to buy and sell an asset).
 
-## Business risk
+### Business risk
 
 Specific to the business undertaken.
 
@@ -68,7 +70,7 @@ Specific to the business undertaken.
 - Lower sales volume than expected
 - (Competitor actions)
 
-## Operational risk and external risk
+### Operational risk and external risk
 
 Risk of loss due to failed internal systems, processes, people, or external
 events.

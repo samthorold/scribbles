@@ -1,5 +1,15 @@
 # Overview
 
+- State the obvious
+- Split points into multiple, overlapping sentences
+- If in doubt, just go with something and aim for breadth
+    - cross-credit is given where qus can reasonably be said to overlap
+- Really, state the obvious
+- Headers are important, but the marks are not for headers ...
+- ... as long as you hit the points, you'll get the marks
+- Use the words of the question ...
+- ... at least to guide headers
+
 ## ACC
 
 !!! note "The Actuarial Control Cycle"

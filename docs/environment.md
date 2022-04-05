@@ -6,25 +6,23 @@
 
 ## Stakeholders
 
-Insurance companies
-
-Benefit schemes
-
-Employers
-
-Employees
-
-Investment fund managers
-
-Members of investment schemes
-
-Sponsors of capital projects
-
-Banks
-
-Gov't departments
-
-Regulatory bodies
+- (Re)Insurers
+- Trustees
+- Employers / Employees
+- Fund managers
+- Members investment / benefit schemes
+- Sponsors of benefit schemes / capital projects
+- Banks and other capital providers
+- Gov't departments
+- Regulatory bodies
+- Lawyers
+- Property valuers / loss adjusters
+- Accountants and auditors
+- Financial modeller
+- Loan administrator
+- Chief risk officer
+- Risk owner
+- Risk committee
 
 ## Environment
 

@@ -79,6 +79,36 @@ Disadvantages
 - Management charges incurred
 - Possible tax disadvantages
 
+---
+
+[2019 September Paper 2 Q2-v](40-2019-09-02.md#2-v)
+
+#### Advantages of indirect investment
+
+A wide range of skills and experience is required to invest in commercial mortgages.
+
+Setting up such a team involves significant costs ...
+
+... whereas the third-party manager can benefit from economies of scale.
+
+Setting up such a team would take up a lot of LifeCo’s time ...
+
+... delaying LifeCo from investing in commercial mortgages.
+
+LifeCo can select an investment manager with a proven track record.
+
+Indirect investment makes it easier to achieve diversification, as LifeCo can be invested in a larger number (but smaller proportion) of loans.
+
+#### Disadvantages of indirect investment
+
+Indirect investment gives less control over the loans chosen.
+
+Indirect investment exposes LifeCo to additional operational and external risks.
+
+Use of a third-party manager does not remove the need for the LifeCo to have expertise in loans.
+
+---
+
 ## Derivatives
 
 Derivative - financial instrument with value dependent on value of some other

@@ -42,6 +42,8 @@ than non-quoted shares.
 
 ## Property
 
+[2019 September Paper 2 Q2-ii](40-2019-09-02.md#2-ii)
+
 A **PRIME** property
 
 | Call | St |

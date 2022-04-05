@@ -30,6 +30,7 @@ nav:
     - Assets: assets.md
     - Risk: risk.md
     - Capital: capital.md
+    - Contracts: contracts.md
     - "Ch01: Actuarial Advice": 01-actuarial-advice.md
     - "Ch02: External Environment": 02-external-environment.md
     - "Ch03: Regulation": 03-regulation.md
@@ -70,4 +71,9 @@ nav:
     - "Ch38: Monitoring": 38-monitoring.md
     - "2018 April Paper 2": 40-2018-04-02.md
     - "2019 April Paper 2": 40-2019-04-02.md
+    - "2019 September Paper 1": 40-2019-09-01.md
     - "2019 September Paper 2": 40-2019-09-02.md
+    - "2020 April Paper 2": 40-2020-04-02.md
+    - "2020 September Paper 2": 40-2020-09-02.md
+    - "2021 April Paper 2": 40-2021-04-02.md
+    - "2021 September Paper 2": 40-2021-09-02.md

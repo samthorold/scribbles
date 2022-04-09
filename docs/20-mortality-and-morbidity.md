@@ -120,6 +120,8 @@ For example, the cost of undertaking extensive blood tests has to be weighed aga
 
 ## Different mortality tables for different classes of lives
 
+[2019 April Paper 1 Q8-i](40-2019-04-01.md#8-i)
+
 When a life table is constructed it is assumed to reflect the mortality experience of a homogeneous group of lives ...
 
 ... i.e. all the lives to whom the table applies follow the same stochastic model of mortality represented by the rates in the table.
@@ -179,8 +181,17 @@ It is also administratively inconvenient to use too many different tables.
 
 ## Factors contributing to variations in mortality and morbidity
 
+[2019 April Paper 1 Q8-ii](40-2019-04-01.md#8-ii)
+
 - Sex
+    - Female mortality tends to be lower than male mortality.
+    - Females are less likely to undertake hazardous pursuits.
+    - Susceptibility to certain illnesses varies by gender.
+    - Genetic effects can vary by gender.
 - Age
+    - There is an accident hump from the late teens to mid 20s.
+    - As the body ages, individuals are more prone to diseases.
+    - Genetic effects may be greater at older ages.
 
 And
 
@@ -196,11 +207,11 @@ And
 Which are proxies for the "true" factors ... **NB bookwork on each** ...
 
 - Heterogeneity within groups
-- Occupation
+- **Occupation**
 - Nutrition
 - Housing
 - Climate / geography
-- Education
+- **Education**
 - Genetics
 
 The above risks become less significant in old age, leading to mortality

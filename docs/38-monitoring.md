@@ -1,5 +1,7 @@
 ## Reasons for monitoring experience
 
+[2019 April Paper 1 Q8-iii](40-2019-04-01.md#8-iii)
+
 Monitoring the experience is a fundamental part of the actuarial control cycle.
 The experience will be monitored to
 
@@ -8,6 +10,39 @@ experience
 - Monitor any trends in experience, particularly adverse, to take corrective
 actions
 - Provide management (and other key stakeholder) information
+
+---
+
+Monitoring can help in:
+
+- updating assumptions
+- updating methods ...
+
+... to more closely reflect expected future experience.
+
+Trends can be monitored ...
+
+... particularly adverse trends ...
+
+... so corrective action can be taken ...
+
+... eg tighten underwriting procedures.
+
+Monitoring provides information to management ...
+
+... and other key stakeholders.
+
+### Different products
+
+For term assurance, mortality rates increasing is the key concern ...
+
+... and may lead to a tightening of underwriting procedures.
+
+For the GLP, mortality rates increasing is the key concern ...
+
+... and may lead to the premium being increased at the next renewal date.
+
+For pension liabilities, mortality rates decreasing is the key concern as pensions will be paid for longer.
 
 ## Data required for monitoring
 

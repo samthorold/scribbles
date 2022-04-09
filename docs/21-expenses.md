@@ -1,5 +1,7 @@
 [2018 April Paper 2 Q3](40-2018-04-02.md#3)
 
+[2019 April Paper 1 Q5](40-2019-04-01.md#5)
+
 For most financial services providers, the expenses, in roughly descending order of amount, might be:
 
 - staff salaries, pensions contributions, national insurance contributions, etc
@@ -23,6 +25,10 @@ and remain constant apart from large changes from time to time.
 
 Direct expenses can be identified as belonging to a particular class or
 classes of business while indirect expenses cannot.
+
+## Expense analysis
+
+[2019 April Paper 1 Q5](40-2019-04-01.md#5-ii)
 
 ## Insurance company expenses
 

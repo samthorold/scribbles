@@ -211,6 +211,8 @@ A provision for the unexpired duration can be set by a simple proportion of this
 
 ### Equalisation reserves
 
+[2019 April Paper 1 Q6-iv](40-2019-04-01.md#6-iv)
+
 An example of the issues discussed above occurs where a product provider might wish to exhibit stable results from year to year ...
 
 ... but where the portfolio contains low probability risks with a large and highly volatile financial outcome.

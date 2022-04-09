@@ -1,3 +1,12 @@
+
+Group policies are characterised by:
+
+- only covering employees whilst they work for the company (ie benefit ceases on leaving or retirement)
+- limited underwriting
+- concentrations of exposure, eg by type of work and location
+- often being compulsory or opt out, ie all employees join automatically.
+
+
 ## Pure endowment and endowment assurance
 
 Pure endowment provides a benefit on survival to a known date

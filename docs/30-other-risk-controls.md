@@ -3,11 +3,18 @@
 Risk can be managed through diversification within
 
 - Lines of business
+    - Just sell something new e.g. motor insurance
 - Geographies
 - Providers of reinsurance
+    - i.e. use more than one in case it fails
 - Investments
     - Asset classes
     - Within an asset classes
+- Age group
+- Policy term
+- Purpose of ...
+- Number of lives
+- Sales channel
 
 Diversification can also be achieved by entering into reciprocal reinsurance
 arrangements.
@@ -16,6 +23,7 @@ arrangements.
 
 Underwriting generally refers to the assessment of potential risks so that
 each can be charged an appropriate premium.
+
 It can be used to manage risk in the following ways
 
 - Protect a provider from anti-selection
@@ -47,10 +55,20 @@ Special terms may then be applied where the applicant is non-standard
 Claims control systems mitigate the consequences of a financial risk that has
 occurred by guarding against fraudulent or excessive claims.
 
+eg have a cap on the maximum payout for [peril].
+
+or an excess to reduce the cost of claims.
+
+Or exclusions
+
 For some products (e.g. income protection) claims management continues during
 claim.
 
+Strict policy wording
+
 ## Management control systems
+
+Have good
 
 - Data recording
 - Accounting and auditing

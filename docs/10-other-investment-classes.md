@@ -118,13 +118,44 @@ Long and asset - positive economic exposure to that asset
 
 ## Overseas investment
 
-Reasons for
+### Pros
 
-- Match liabilities in foreign currency
-- Increase expected returns
-- Reduce risk by increasing level of diversification
+[2019 April Paper 1 Q7-i](40-2019-04-01.md#7-i)
 
-Drawbacks
+The overseas [assets] may be more secure, i.e. have lower [default] risk.
+
+#### Match liabilities in foreign currency
+
+The scheme may have some liabilities denominated in the currency of the other country ...
+
+... so holding these bonds gives a better match.
+
+Bonds of a longer term, appropriate to match the scheme’s liabilities, may be available in the other country.
+
+#### Higher expected returns
+
+There may be price inefficiencies ...
+
+... which the scheme may be able to exploit.
+
+There may be beneficial tax treatment, which increases returns.
+
+The overall return achieved may be higher despite the lower yield if:
+
+- yields are expected to fall further (and so prices rise) ...
+- ... and so a capital gain is made (assuming the bonds are sold before maturity)
+- the currency moves favourably ...
+- ... ie the currency in Country B appreciates vs that of Country A.
+
+#### Reduce risk by increasing level of diversification
+
+There may be diversification benefits from investing overseas.
+
+Diversifying reduces exposure to specific risks ...
+
+... e.g. risks specific to the economy of the domestic country.
+
+### Cons
 
 - Mismatching risk due to different foreign market performance compated to
 domestic market
@@ -140,6 +171,40 @@ domestic market
 - Political risks e.g. confiscation of assets
 - Possible lack of liquidity
 - Restrictions on ownership of shares by foreign investors
+
+---
+
+#### Investment difficulties
+
+Mismatching domestic liabilities
+
+Taxation (may not be able to recover withholding taxes paid)
+
+Volatility of currency
+
+#### Practical problems
+
+Custodian needed
+
+Additional admin required
+
+Time delays
+
+Expenses / Expertise required
+
+Regulation (poor)
+
+Political instability
+
+Information harder to obtain / less plentiful
+
+Language difficulties
+
+Liquidity problems
+
+Accounting differences
+
+Restrictions on foreign ownership / repatriation problems
 
 ### Indirect overseas investment
 

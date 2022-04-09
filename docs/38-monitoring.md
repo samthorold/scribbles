@@ -2,6 +2,8 @@
 
 [2019 April Paper 1 Q8-iii](40-2019-04-01.md#8-iii)
 
+[2019 September Paper 1 Q8-i](40-2019-09-01.md#8-iii)
+
 Monitoring the experience is a fundamental part of the actuarial control cycle.
 The experience will be monitored to
 

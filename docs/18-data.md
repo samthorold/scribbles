@@ -1,7 +1,57 @@
+
+[2019 September Paper 1 Q1](40-2019-09-01.md#1)
+
+## credibility (i.e. volume)
+
+There needs to be a sufficient volume of data.
+
+Need to consider how long the data has been collected for ...
+
+... it may not be many years in a developing country.
+
+Consider when the data was collected; it may be out of date.
+
+## completeness and quality
+
+Need to consider whether the data is complete and ...
+
+... whether and ...
+
+... how to check for errors.
+
+Need to ensure that all deaths have been included ...
+
+... e.g. whether [risk event] in [X] have been included.
+
+Consider whether the data is detailed enough for the analysis ...
+
+... e.g. includes the exposed to risk data as well as information on deaths.
+
+Consider how the data is split, eg by:
+
+- gender
+- postcode
+- cause of death.
+
+## relevance
+
+There may have been a change in the mix of homogeneous groups in the population.
+
+Consider whether the past is likely to be a good indicator of the future ...
+
+... for example, might expect to see increases in life expectancy ...
+
+... which could be rapid in a developing country.
+
+Need to consider whether other sources of data are more suitable.
+
+As the policy is new, significant margins for prudence may need to be added into the mortality assumption.
+
 ## Personal data
 
 Information that would allow an individual to be identified,
 either on its own or when combined with other information.
+
 Organisations have ethical and legislative responsibilities when dealing with
 personal data.
 

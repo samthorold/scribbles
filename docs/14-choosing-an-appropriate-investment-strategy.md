@@ -23,6 +23,8 @@ The risk appetite of an inistitution will depend on
 
 ## Factors influencing an institution's investment strategy
 
+[2019 September Paper 1 Q7-i](40-2019-09-01.md#7-i)
+
 | Sounder | Tractors |
 |---|---|
 | Size of assets (abs / rel to liabs) | Tax (asset / investor) |
@@ -34,7 +36,9 @@ The risk appetite of an inistitution will depend on
 | Return (risk-adj, net, expected, long-term) | Risk appetite |
 | | Solvency and accounting retrictions |
 
-## Factors influencing and individual's investment strategy
+## Factors influencing an individual's investment strategy
+
+[2019 September Paper 1 Q7-ii](40-2019-09-01.md#7-ii)
 
 The main factors are similar to those of an institution
 but the balance of the factors will change. In particular,

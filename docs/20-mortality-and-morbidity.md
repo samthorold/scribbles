@@ -181,7 +181,10 @@ It is also administratively inconvenient to use too many different tables.
 
 ## Factors contributing to variations in mortality and morbidity
 
-[2019 April Paper 1 Q8-ii](40-2019-04-01.md#8-ii)
+- [2019 April Paper 1 Q8-ii](40-2019-04-01.md#8-ii)
+- **[2019 September Paper 1 Q8-ii](40-2019-09-01.md#8-ii)**
+
+---
 
 - Sex
     - Female mortality tends to be lower than male mortality.

@@ -118,6 +118,21 @@ Broadly, this certainty means less risk for the policyholder than on a with-prof
 
 ### With-profit (participating) contracts
 
+[2019 September Paper 1 Q4](40-2019-09-01.md#4)
+
+- there will be a guaranteed minimum benefit
+- regular bonuses will be added during the lifetime of the policy
+- a terminal bonus will be added when the benefit payment is made.
+
+The payment of the bonuses will depend on the performance of the with-profit fund, primarily on investment returns and on the wider performance of the insurer, as well as the bonuses that have already been awarded on the product.
+
+The insurer has discretion in awarding future bonuses, although once a regular bonus has been added to a policy it is guaranteed. The insurer does need to be mindful though of policyholder expectations, which will depend upon any literature provided, past practice of the insurer and what other insurers are providing on similar policies.
+
+The insurer will usually aim to smooth bonuses by "holding back" some money when the fund is performing very well, so as to be able to provide it as bonuses in other years when the fund has performed poorly.
+
+
+---
+
 A life insurance contract is with-profit if the policyholder is entitled to receive part of the surplus of the company or of a sub-fund within the company.
 
 The extent of the entitlement is usually at the discretion of the company.
@@ -134,7 +149,7 @@ Savings contracts will tend to have premiums invested in riskier assets than do 
 
 ... with higher expected returns that are used to form the basis of the discretionary benefit entitlement.
 
-It is typical for a with-profit contract to involve some guaranteed benefits and some discretionary.
+**It is typical for a with-profit contract to involve some guaranteed benefits and some discretionary.**
 
 There are a variety of ways of applying the discretionary benefit ...
 

@@ -259,15 +259,51 @@ So we have two problems.
 
 ## Selection
 
-- Temporary initial selection: level of risk increases or decreases since the
-selection process (or discriminating event).
-- Class selection: a select group is taken from a population consisting of a
-mixture of classes. of individuals with different characteristics.
-- Time selection: select group is taken from a population of individuals from
-different calendar years.
-- Adverse selection: individual's choice influences the selection process.
-- Spurious selection: distorting effect of a confounding factorgives the
-false impression that one of the other forms of selection is present.
+### Temporary initial selection
+
+level of risk increases or decreases since the selection process (or discriminating event).
+
+Temporary initial selection occurs because ...
+
+... potential policyholders are underwritten at the outset of the policy ...
+
+... so that lives in poor health are excluded ...
+
+... and the policyholders who are accepted are therefore healthier ...
+
+... but this selective effect wears off over time. 
+
+### Class selection
+
+a select group is taken from a population consisting of a mixture of classes of individuals with different characteristics.
+
+### Time selection
+
+select group is taken from a population of individuals from different calendar years.
+
+### Adverse selection
+
+individual's choice influences the selection process.
+
+Adverse selection may arise ...
+
+... if insufficient underwriting is carried out ...
+
+... for example, if the company does not differentiate by occupation and other insurers do ...
+
+... then the company may attract policyholders in more hazardous occupations. 
+
+### Spurious selection
+
+distorting effect of a confounding factor gives the false impression that one of the other forms of selection is present.
+
+When homogeneous groups are formed it is usual to assume that the factors chosen to define each group explain any differences in mortality between the groups.
+
+However, it may be that the analysis is incorrect and that there are other factors that are the true causes of differences between groups.
+
+Explaining differences by factors other than the true underlying causes is known as spurious selection.
+
+---
 
 These examples apply to insurance and pensions.
 

@@ -41,11 +41,93 @@ May be an excess and/or a max level of cover.
 
 Main types of liability insurance and major perils include
 
-- Employer's liability: accident in the workplace, exposure to harmful substance
-- Public liability: depends (dog bites, falling objects)
-- Product liability: faulty design, manufacture, packaging, misleading instr
-- Professional indemnity: depends on profession
-- Motor third party liability: major accidents
+### Employers' liability
+
+This insurance indemnifies the insured against the legal liability to compensate an employee or their estate for;
+
+- accidental bodily injury
+- disease
+- or death suffered
+
+owing to negligence of the employer, in the course of employment.
+
+Employers are liable if they are negligent in providing their employees with safe working conditions.
+
+### Public liability
+
+The insured is indemnified against legal liability for ...
+
+... the death of or bodily injury to ...
+
+... a third party or for damage to property belonging to a third party ...
+
+... other than those liabilities covered by other liability insurance.
+
+As this type of insurance forms part of many types of insurance policy ...
+
+... the insured perils will relate to the type of policy.
+
+For example, compensation for a dog bite may be covered by a household policy ...
+
+... while compensation for injury from a falling object may be covered by a commercial policy held by a builder.
+
+### Product liability
+
+This insurance indemnifies the insured against legal liability for ...
+
+... the death of, or bodily injury to ...
+
+... a third party or for damage to property belonging to a third party ...
+
+... which results from a product fault.
+
+Here the perils depend greatly on the nature of the product being produced, but include;
+
+- faulty design
+- faulty manufacture
+- faulty packaging
+- and incorrect or misleading instructions.
+
+Examples could include unwanted side effects from a drug or faulty wiring on an electrical appliance.
+
+As with all types of liability insurances ...
+
+... the policy would also cover legal expenses incurred by the insured in respect of claims against them.
+
+
+### Professional indemnity
+
+The insured is indemnified against legal liability resulting from negligence in the provision of a service ...
+
+... e.g. unsatisfactory medical treatment or incorrect advice from an actuary, solicitor etc.
+
+In a company takeover for example, considerable weight may be given to professional reports from accountants, merchant bankers and, where relevant, actuaries.
+
+Negligence by one of the advisors could cause their client to suffer large losses.
+
+Similarly, auditors may be the subject of negligence claims ...
+
+... if companies for which they audit financial statements subsequently become the subject of some financial mismanagement scandal.
+
+The perils here depend on the profession of the insured.
+
+Examples include;
+
+- wrong medical diagnosis
+- error in medical operation
+- and error in an actuarial report.
+
+### Motor third party liability
+
+This insurance indemnifies the owner of a motor vehicle against compensation payable to third parties for;
+
+- death
+- personal injury
+- or damage to their property.
+
+In most countries such cover is compulsory, with or without an upper limit on the amount of compensation.
+
+The cover provided may or may not be limited to that required by legislation.
 
 ## Property insurance
 

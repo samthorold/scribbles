@@ -21,6 +21,21 @@ arrangements.
 
 ## Underwriting at the proposal stage
 
+### Reasons for initial underwriting
+
+SAFARI
+
+- Suitable special terms
+- Avoid anti-selection
+- Financial underwriting against over-insurance
+- Actual experience in line with that assumed in pricing
+- Risk classification / rated fairly
+- Identify substandard risks
+
+---
+
+[2020 April Paper 1 Q6i](40-2020-04-01.md#6-i)
+
 Underwriting generally refers to the assessment of potential risks so that
 each can be charged an appropriate premium.
 

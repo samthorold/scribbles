@@ -17,7 +17,10 @@ eperts
 
 ## Risk categories
 
-[2019 September Paper 2 Q2-ii](40-2019-09-02.md#2-ii)
+- [2019 September Paper 2 Q2ii](40-2019-09-02.md#2-ii)
+- [2020 April Paper 1 Q9i](40-2020-04-01.md#9-i)
+
+---
 
 - Market
 - Credit
@@ -34,6 +37,14 @@ with investment markets.
 - Changes in asset values
 - Investment market value changes on liabilities
 - Mismatching assets and liabilities
+
+Interest rate rises will be a particular concern if the [company's] source of finance is at a variable rate.
+
+Interest rates may rise ...
+
+... but as the bank cannot change the rate on existing [product] ...
+
+... it may miss out on earning returns.
 
 ### Credit risk
 
@@ -82,6 +93,11 @@ events.
 - Reliance on third parties
 - Failure to plan properly (for external events)
 - Risk of (further) regulation
+- Competition
+- Reputation
+    - particularly if selling to the elderly
+    - with pushy sales techniques
+- Poor management of data and the underwriting process
 
 Natural disasters are systematic (i.e. non-diversifiable) risks.
 

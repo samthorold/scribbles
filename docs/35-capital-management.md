@@ -18,7 +18,45 @@ Capital management of a financial benefit provider involves;
 - Finance stock and work in progress
 - Obtain premises, hire staff, purchase equipment (start-up capital)
 
+---
+
+A company is likely to need capital to:
+
+- cope with adverse experience ...
+
+    ... eg a fall in sales volumes
+
+- enable it to expand into new markets or take over a competitor
+- manage cashflow over time ...
+
+    ... eg finance work in progress ...
+
+    ... and allow the company to pay suppliers before money is received from customers
+
+- demonstrate financial strength to make it easier and cheaper to borrow.
+
+If the company is new, then it will need capital to set up its operations ...
+
+... eg purchase a premises and machinery.
+
+If the company is an insurer or has uncertain liabilities ...
+
+... then the capital needed is likely to be significant.
+
+For financial institutions, there may be regulatory requirements to hold at least a certain minimum level of capital. 
+
+
 ## Providers of financial services products
+
+REG | CUSHION
+---|---
+Regulatory requirement to demonstrate solvency | Cashflow timing management
+Expenses of launching a new product / starting a new operation | Unexpected events cushion, eg adverse experience
+Guarantees can be offered | Smooth profit
+| Help demonstrate financial strength
+| Investment freedom to mismatch in pursuit of higher returns
+| Opportunities, eg mergers and acquisitions
+| New business strain financing 
 
 Same needs as other companies but long-term nature and associated uncertainty
 means they also need capital for
@@ -61,6 +99,7 @@ Microinsurance schemes may have support from the state.
 - [2018 April Paper 2 Q1](40-2018-04-02.md#1)
 - [2018 April Paper 2 Q6](40-2018-04-02.md#6)
 - [2019 September Paper 1 Q5ii](40-2019-09-01.md#5-ii)
+- [2020 April Paper 1 Q5iii](40-2020-04-01.md#5-iii)
 
 Effectiveness of tools depends on the regulatory and tax environment.
 

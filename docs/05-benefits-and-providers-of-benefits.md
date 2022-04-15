@@ -87,6 +87,9 @@ savings plans, deposits with State bank.
 #### Objectives
 
 - [2019 April Paper 2 Q1i](40-2019-04-02.md#i)
+- [2020 April Paper 1 Q10ii](40-2020-04-01.md#10-ii)
+
+---
 
 - provide for those unable to provide for themselves (minimum standard)
 - redistribute wealth
@@ -103,6 +106,15 @@ savings plans, deposits with State bank.
 - have a positive macroeconomic effect
 - be popular with voters and employers.
 
+---
+
+- paternalism
+- fairness
+- meeting political objectives
+- acceptable cost
+- ensuring full coverage
+- social mobility
+- effective regulation.
 
 #### Examples from qu
 

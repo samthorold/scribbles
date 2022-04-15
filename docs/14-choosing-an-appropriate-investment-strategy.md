@@ -38,7 +38,8 @@ The risk appetite of an inistitution will depend on
 
 ## Factors influencing an individual's investment strategy
 
-[2019 September Paper 1 Q7-ii](40-2019-09-01.md#7-ii)
+- [2019 September Paper 1 Q7-ii](40-2019-09-01.md#7-ii)
+- [2020 April Paper 1 Q8-i](40-2020-04-01.md#8-i)
 
 The main factors are similar to those of an institution
 but the balance of the factors will change. In particular,

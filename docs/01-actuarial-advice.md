@@ -31,7 +31,7 @@
 
 ## Advice given
 
-- [2019 April Paper 2 Q1](40-2019-04-02.md#1)
+### [2019 April Paper 2 Q1](40-2019-04-02.md#1)
 
 Can provide advice on different types of insurance cover.
 May be able to provide a more cost-effective alternative for existing products.
@@ -77,6 +77,40 @@ Actuaries could give advice on methods of risk acceptance, rejection,
 transfer and management for the various risks involved.
 
 The actuarial control cycle could be used.
+
+### [2020 April Paper 1 Q10iii](40-2020-04-01.md#10-iii)
+
+#### Assessment of the likely cost
+
+The actuary can advise on the likely cost of providing the benefits by;
+
+- setting appropriate assumptions
+- using data, which may need to be modified
+- modelling.
+
+The assessment will allow for the expected future claims costs and expenses ...
+
+... bearing in mind that some of these claims will take a significant time to settle.
+
+However, the assessment will not need to allow for a profit loading.
+
+Historical data is likely to be available relating to the likelihood and cost of claims.
+
+The actuary can explain how to use the output from the modelling exercise.
+
+#### How the cost could be met
+
+The actuary can advise on how the cost might be met, for example through;
+
+- general taxation
+- borrowing
+- a specific tax on motorists and/or insurance companies.
+
+#### Risk assessment
+
+The actuary can advise on the key risks ...
+
+... and how these risks can be managed over time.
 
 ## Professional framework
 

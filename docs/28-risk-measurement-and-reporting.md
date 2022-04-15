@@ -120,6 +120,16 @@ Retained risks should have the following details
 
 ## Risk reporting
 
+[2020 April Paper 1 Q2](40-2020-04-01.md#2)
+
+FRAUD | CRIME
+---|---
+Financing (appropriate price, reserves, capital requirements) | Changes over time
+Rating agencies | Regulator
+Attractiveness to investors | Interactions
+Understand better (risks and their financial impact) | Monitor effectiveness of controls
+Determine appropriate control systems | Emerging risk identification
+
 Vital to ensure risk management process is effective
 
 - Identify new risks

@@ -1,5 +1,7 @@
 ## Risk identification
 
+- [2020 September Paper 1 Q4i](40-2020-09-01.md#4-i)
+
 Everyone in an organisation should be involved in risk identification, at all
 levels.
 
@@ -9,11 +11,24 @@ Techniques
 - Risk checklists e.g. as used for setting regulatory capital requirements
 - Experience of staff joining from similar organisations, consultants,
 eperts
-- Project management risk identification techniques
-    - High-level prelim analysis
-    - Brainstorming
-    - Desktop analysis (_what_?)
-    - Risk register / risk matrix
+
+Project management risk identification techniques
+
+- Firstly carry out a high level preliminary analysis
+
+    with the aim of checking whether the project is so risky that it should not proceed.
+
+- Hold a brainstorming session
+
+    with experts both internal and external to the business.
+
+- Carry out a desktop analysis
+
+    with further research on risks arising from the brainstorming session and starting to consider mitigation options.
+
+- Compile the risks into a risk register or risk matrix
+
+    detailing frequency, severity and correlations between risks.
 
 ## Risk categories
 

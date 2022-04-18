@@ -100,6 +100,7 @@ Microinsurance schemes may have support from the state.
 - [2018 April Paper 2 Q6](40-2018-04-02.md#6)
 - [2019 September Paper 1 Q5ii](40-2019-09-01.md#5-ii)
 - [2020 April Paper 1 Q5iii](40-2020-04-01.md#5-iii)
+- [2020 September Paper 1 Q7i](40-2020-09-01.md#7-i)
 
 Effectiveness of tools depends on the regulatory and tax environment.
 
@@ -152,6 +153,14 @@ fund [regulatory changes on new product].
 subsidiaries.
 - More cost effective than other forms of capital but has financial strength
 implications at the group level.
+
+---
+
+- The bank could act as a broker for reinsurance products.
+- The bank could advise on issuing subordinated debt or equity finance ...
+- ... or in securitising future profits.
+- The bank may advise on cost-saving measures that the insurer could undertake, e.g. to cut expenses ...
+- ... or provide guidance on profitable markets where the insurer might undertake business.
 
 ### Derivatives
 

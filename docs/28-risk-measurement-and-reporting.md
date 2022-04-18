@@ -24,42 +24,66 @@ Approaches include;
 
 - [2018 April Paper 2 Q4](40-2018-04-02.md#4)
 
-**Scenario analysis** is useful where it is difficult to fit full probability
-distributions to risk events.
+### Scenario analysis
+
+[2020 September Paper 1 Q5ii](40-2020-09-01.md#5-ii)
+
+#### Pros
+
+Scenario analysis is a deterministic method of evaluating risk.
+
+It is useful where it is difficult to fit full probability distributions to risk events.
+
+Such as when there are insufficient data points to create a probability distribution ...
+
+... given that [X events] are relatively rare.
+
+#### The modelling process
+
+- A scenario will be developed [for each region in which] the insurer operates.
+- The management team and other experts can help determine the scenarios.
+- The scenarios will be tested, with the results providing information on ...
+- ... the impact on claim costs ...
+- ... but not the likelihood of a claim arising.
+
+---
 
 - For each group of risks a representative plausible scenario is developed.
 - For each scenario the consequences of the event occurring are calculated.
 - A number of different scenarios may be considered.
 
+Process
+
 - Group risks into broad categories
 - Develop plausible adverse scenario
 - Calculate consequences of risk event occurring for each scenario
-- Total costs calculated are taken as the financial cost of all risks
-represented by the chosen scenario
+- Total costs calculated are taken as the financial cost of all risks represented by the chosen scenario
 
-**Stress testing** involves testing for weaknesses in a portfolio by subjecting
-it to extreme market movements (or credit or liquidity events)
+### Stress testing
+
+involves testing for weaknesses in a portfolio by subjecting it to extreme market movements (or credit or liquidity events)
 
 - Modelling of extreme changes and scenarios.
 - Will be looking at correlations and volatilities which are observed to simultaneously increase during extreme events.
 - Aim to identify weak areas by looking at effect of different combinations of correlations and volatilities number of different scenarios may be considered.
 - Key area is constructing appropriate stress test scenarios.
 
-- Identify "weak areas" in the portfolio and investigate effects of localised
-stress by looking at the effect of different combinations of corrs and vols
-- Gauge impact of major market turmoil affecting all model params,
-while ensuring consistency between corrs while they are stressed
+- Identify "weak areas" in the portfolio and investigate effects of localised stress by looking at the effect of different combinations of corrs and vols
+- Gauge impact of major market turmoil affecting all model params, while ensuring consistency between corrs while they are stressed
+
+### Stress scenario
 
 Stress and scenario testing can be combined to determine a **stress scenario**.
 
-**Reverse stress testing** is the construction of a severe stress scenario that
-just allows the firm to be able to continue to meet its business plan,
-e.g. having insufficient capital to meet solvency reqs to cover its minimum
-risk appetite.
+### Reverse stress testing
+
+is the construction of a severe stress scenario that just allows the firm to be able to continue to meet its business plan, e.g. having insufficient capital to meet solvency reqs to cover its minimum risk appetite.
+
 The scenario may be extreme, but it must be plausible.
 
-**Stochastic modelling** is a natural extension of stress testing but can be
-complex and impractical in many cases.
+### Stochastic modelling
+
+is a natural extension of stress testing but can be complex and impractical in many cases.
 
 - Variables are modelled using probability distributions.
 - Dynamic interaction between variables.

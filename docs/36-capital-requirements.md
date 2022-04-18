@@ -1,5 +1,3 @@
-# Ch36: Capital Requirements
-
 ## Regulatory capital
 
 Regulatory solvency capital requirement is the total of
@@ -64,6 +62,8 @@ liabs (available capital) is compared to economic capital reqs
 best estimate basis and add on a risk margin
 
 ## Internal models
+
+[2020 September Paper 1 Q7iii](40-2020-09-01.md#7-iii)
 
 Used to calculate economic capital reqs and may be used to determine Solvency
 II SCR (provided the model is approved by the regulator).

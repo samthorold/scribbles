@@ -37,6 +37,7 @@ nav:
     - "Liabilities": liabilities.md
     - "Assets": assets.md
     - "Risk": risk.md
+    - "Modelling": modelling.md
     - "Capital": capital.md
     - "Contracts": contracts.md
     - "Ch01: Actuarial Advice": 01-actuarial-advice.md
@@ -84,6 +85,8 @@ nav:
     - "2019 September Paper 2": 40-2019-09-02.md
     - "2020 April Paper 1": 40-2020-04-01.md
     - "2020 April Paper 2": 40-2020-04-02.md
+    - "2020 September Paper 1": 40-2020-09-01.md
     - "2020 September Paper 2": 40-2020-09-02.md
+    - "2021 April Paper 1": 40-2021-04-01.md
     - "2021 April Paper 2": 40-2021-04-02.md
     - "2021 September Paper 2": 40-2021-09-02.md

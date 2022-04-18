@@ -1,8 +1,8 @@
+Risk control is about either reducing the likelihood of the risk event occurring or reducing the severity or consequences of a risk event that does occur.
+
 ## Risk management process
 
-Risk management: the process of ensuring the risks to which an organisation is
-exposed are the risks to which it thinks it is exposed and to which it is
-prepared to be exposed.
+Risk management: the process of ensuring the risks to which an organisation is exposed are the risks to which it thinks it is exposed and to which it is prepared to be exposed.
 
 The process consists of
 
@@ -68,7 +68,7 @@ And should
 
 _What on earth is this sentence..._
 
-Risk contains an element of uncertainty but may have some uncertain elements
+Risk contains an element of uncertainty but may have some uncertain elements.
 
 ## Systematic vs diversifiable risk
 

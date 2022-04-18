@@ -12,6 +12,8 @@
 
 ## ACC
 
+[2020 September Paper 1 Q2](40-2020-09-01.md#2)
+
 !!! note "The Actuarial Control Cycle"
 
     - Specify the problem
@@ -42,6 +44,72 @@ The final bullet point above indicates that the process is cyclical.
 
 The approach used in almost all risk management tasks is that of the actuarial control cycle.
 
+### General economic and commercial environment
+
+It will be important to consider the wider external environment ...
+
+... e.g. who the key competitors are, their products and prices.
+
+Consider the regulations applying to pricing and reserving for [this product].
+
+### Specifying the problem
+
+Measurable targets will need to be set, eg
+
+- profit criteria
+- market share.
+
+All the stakeholders will need to be identified e.g.
+
+- reinsurers
+- regulator
+
+Risk will need to be identified e.g. COMBEL, PNEFCPB
+
+- mortality heavier than expected
+- expenses greater than expected
+- business volumes lower than expected
+- inadequate underwriting.
+
+Risks will then be analysed.
+
+[As the product is new, ]the insurer may lack expertise in pricing the product for this market.
+
+The initial problem is to [design and price the new term assurance].
+
+### Developing the solution
+
+Risks will need to be managed, mitigated or transferred.
+
+A model will be required to [price the product].
+
+Assumptions will need to be set.
+
+[As this is term assurance, mortality] is the key assumption.
+
+Decisions will be made in relation to handling risks.
+
+An analysis of various design options will be undertaken.
+
+### Monitoring the experience
+
+Actual experience will need to be reviewed against expectations.
+
+[For example, assessing the success of using tied agents as opposed to other sales channels.]
+
+The following areas will be monitored:
+
+- mortality, which may vary significantly over time [in a developing country ]...
+
+    ... and this mortality risk will sit entirely with the insurer if the contract is without-profit in nature.
+
+- lapses
+- business volumes
+- performance relative to competitors.
+
+### Professionalism
+
+All work should be undertaken in a professional manner.
 
 ## Chapter map
 

@@ -2,15 +2,101 @@
 
 - [2020 September Paper 1 Q4i](40-2020-09-01.md#4-i)
 
-Everyone in an organisation should be involved in risk identification, at all
-levels.
+Risk identification is the first step of the risk management control cycle.
 
-Techniques
+Risk identification is the recognition of the risks that can threaten an organisation's business plan.
 
-- Risk classification (to ensure full coverage)
-- Risk checklists e.g. as used for setting regulatory capital requirements
-- Experience of staff joining from similar organisations, consultants,
-eperts
+For each risk identified it is necessary to determine any risk control processes that can be put in place which will reduce either the likelihood of the risk event occurring or the impact of the risk event should it occur.
+
+It is also important to identify opportunities to exploit risks and gain a competitive advantage over other providers.
+
+Taking on risk is a potential source of profit if the risk is priced correctly.
+
+Identifying all the risks in an organisation is a difficult task and requires good knowledge of;
+
+- the circumstances of the organisation concerned
+- the features of the business environment in which it operates
+- the general business and regulatory environment.
+
+This is equivalent to needing to consider the external environment when following the actuarial control cycle.
+
+Not all risks are immediately obvious.
+
+In particular, it may be difficult to identify newly emerging risks ...
+
+... and other risks that have not yet been experienced by the company but which have the potential to occur.
+
+### Risk identification techniques
+
+!!! note "Explain who should be involved in identifying the risks that could arise within an organisation."
+
+    It is important that everyone involved in an organisation is involved in risk identification ...
+
+    ... not just management and not just those employees who work in a dedicated risk management team.
+
+    This is because those who work directly within the business (e.g. customer service teams) ...
+
+    ... and who use the processes on a regular basis are often most likely to be able to spot potential risk areas.
+
+    It is also useful to involve individuals who are external to the organisation.
+
+    In particular, experts may be used to assist with those risks that are more difficult to identify.
+
+    This could include new types of emerging risk and risks that have a low likelihood (and therefore the organisation will have no or limited experience of them) but potentially high impact.
+
+    External stakeholders can also be involved.
+
+    For example, organisations can encourage their customers to report risks that they come across in using the company’s products or visiting its premises.
+
+To complete a full identification of risks requires gaining input from everyone involved in the business, at all levels.
+
+Senior management may not be aware of a weakness in an operational process that is a risk to the business, which the more junior operators of the process could readily identify.
+
+There are some techniques available to ensure that all relevant risks have been identified;
+
+- use risk classification (see next section) to ensure that all types of risk have been considered
+- use techniques from project management as described in the next sub-section
+- use risk checklists, for example as used for regulatory purposes (see below)
+- use the experience of staff who have joined from similar organisations, and of consultants with broad experience of the industry concerned.
+
+#### Risk checklists
+
+Where there is a risk-based capital requirement regime, such as Solvency II in Europe, there may be lists of risks that regulators believe are relevant to the business.
+
+For example, the standard formula for calculating capital requirements covers many risks relevant to financial product providers.
+
+Such lists may not be exhaustive.
+
+For example, the Solvency II standard formula does not include equity volatility as a risk, which could be highly relevant to a business offering equity-backed products with point guarantees (guaranteed investment at a specified point in time - unit-linked product).
+
+#### Risks in project management
+
+**Identification and analysis of risks**
+
+The steps necessary to achieve an effective identification and analysis of the risks facing a project can be summarised as follows;
+
+- Make a high-level preliminary risk analysis to confirm that the project does not have such a high-risk profile that it is not worth analysing further - in which case, the project should not proceed.
+- Hold a brainstorming session of project experts and senior internal and external people who are used to thinking strategically about the long term. The aim will be to:
+    - identify project risks, both likely and unlikely, and their upsides and downsides
+    - discuss these risks and their interdependency
+    - attempt to place a broad initial evaluation on each risk, considering both frequency of occurrence and probable consequences if it does occur
+    - generate initial mitigation options
+    - discuss these options briefly.
+- Carry out a desktop analysis to supplement the results from the brainstorming session, by identifying further risks and mitigation options, e.g. by researching similar projects undertaken by the sponsor or others in the past (including overseas experiences).
+- Obtain the considered opinions of experts who are familiar with the details of the project and the outline plans for financing it.
+- Carefully set out all the identified risks in a risk register or a risk matrix, with cross-references to other risks where there is interdependency.
+
+    High levels of correlation between individual risks will lead to a higher overall variance of the returns from the project, as the individual risks are less likely to cancel each other out.
+
+A risk matrix is a very useful tool for the risk analyst because it acts as a reminder to consider particular types of risk, which may not have been sufficiently considered.
+
+It may be linked to the use of risk checklists, and also provides a convenient categorisation for risks.
+
+The cells in the matrix can be ticked off to show whether the risk in question applies to the particular project, with a cross-reference to the appropriate entry in the risk register.
+
+The rows in a risk matrix represent the stage of the project at which the risk arises. The columns represent the causes (or types) of risk.
+
+---
 
 Project management risk identification techniques
 
@@ -30,7 +116,7 @@ Project management risk identification techniques
 
     detailing frequency, severity and correlations between risks.
 
-## Risk categories
+## Risk classification and categorisation
 
 - [2019 September Paper 2 Q2ii](40-2019-09-02.md#2-ii)
 - [2020 April Paper 1 Q9i](40-2020-04-01.md#9-i)
@@ -46,12 +132,49 @@ Project management risk identification techniques
 
 ### Market risk
 
-Related to changes in investment market values or other features correlated
-with investment markets.
+Related to changes in investment market values or other features correlated with investment markets.
 
 - Changes in asset values
-- Investment market value changes on liabilities
+- Investment market value changes on liabilities - due to change in inflation / interest rates
+    - amount - higher interest rate -> higher pincs / unit value
+    - value / provisions - lower interest rate -> lower discount rate used to value liabilities and therefore require higher provisions
+
 - Mismatching assets and liabilities
+
+!!! note "Likely effect of an increase in short-term interest rates on value"
+
+    Fixed-interest bonds: An increase in short-term interest rates will almost certainly cause prices of short-term bonds to fall. The values of long-term bonds may go up or down depending on investors' views on future levels of inflation and monetary policy.
+
+    Index-linked bonds: If higher short-term interest rates are interpreted as a sign of lower expected future inflation, then demand for index-linked bonds, and so their values, might fall.
+
+    Equities: Higher interest rates might depress economic growth and so equity values might fall.
+
+    Property: Higher real interest rates should lead to a lower valuation of future rents and therefore lower capital values of property.
+
+#### Asset / Liability matching
+
+The fundamental principle of investment is that assets should be selected to match the liabilities in nature, term and currency.
+
+If it were possible to find such a perfect match, then market risk could be completely diversified away by choosing a matched portfolio.
+
+In practice a perfect match may be impossible because:
+
+- there may not be a wide enough range of assets available ...
+
+    ... in particular it is unusual to find assets of long enough duration
+
+- liabilities may be uncertain in amount and timing
+- liabilities may include options and hence have uncertain cashflows after the option date
+- liabilities may include discretionary benefits
+- the cost of maintaining a fully-matched portfolio is likely to be prohibitive.
+
+Hence even a well-matched portfolio is likely to retain some element of risk.
+
+The existence of additional capital gives freedom to intentionally take an unmatched position in the hope of achieving an additional return.
+
+The capital will be used to cover the cost of the risk taken.
+
+---
 
 Interest rate rises will be a particular concern if the [company's] source of finance is at a variable rate.
 
@@ -71,19 +194,36 @@ Failure of third parties to meet their obligations.
 
 Security is a way of reducing credit risk when lending money to a third party.
 
-Credit ratings are an indication of credit worthiness i.e. the liklihood of
-default.
+Credit ratings are an indication of credit worthiness i.e. the liklihood of default.
+
+Includes credit events e.g. party changing credit rating.
+
+#### Security
+
+The extent to which credit risk arises in relation to an amount that has been lent to a third party depends on the security of the loan.
+
+If a borrower can provide security, providing finance to that borrower will be more attractive to a lender. However, the existence of security is not an excuse for otherwise bad lending.
+
+The decision as to what security is taken is dependent on:
+
+- the nature of the transaction underlying
+- the borrowing the covenant of the borrower
+- market circumstances and the comparative negotiating strength of lender and borrower
+- what security is available.
+
+The covenant of the borrower means the overall creditworthiness of the borrower.
+
+The most common asset to take as security is property.
+
+This can be built into the debt issue on the basis of a fixed charge (ie secured against a specified property or properties) or a floating charge (ie secured against a pool of changing properties).
 
 ### Liquidity risk
 
-Risk that, while the entity may be solvent, the entity may not be able to meet
-obligations as they fall due (or can only secure resources at excessive cost).
+Risk that, while the entity may be solvent, the entity may not be able to meet obligations as they fall due (or can only secure resources at excessive cost).
 
-For a market, this is the risk that the volume of asset traded will have an
-adverse price effect.
+For a market, this is the risk that the volume of asset traded will have an adverse price effect.
 
-Liquidity, how quickly an asset can be turned into cash at a predictable price),
-is not the same as marketability (how easy it is to buy and sell an asset).
+Liquidity, how quickly an asset can be turned into cash at a predictable price), is not the same as marketability (how easy it is to buy and sell an asset).
 
 ### Business risk
 
@@ -95,6 +235,34 @@ Specific to the business undertaken.
 - Exposure to a particular risk is greater than expected
 - Lower sales volume than expected
 - (Competitor actions)
+
+---
+
+Business risk differs from operational risk in that the latter are non-financial events that have financial consequences.
+
+We will discuss operational risk in the next section.
+
+The business risks of **financial product providers** can be further divided into the following sub-categories;
+
+- underwriting risk – arising in relation to the underwriting approach taken
+- insurance risk – arising from the uncertainties relating to claim rates and amounts
+- financing risk – arising in relation to the financing of projects or other activities
+- exposure risk – arising in relation to the amount of business sold or retained, or to its concentration or lack of diversification.
+
+Examples of business risk are;
+
+- Underwriting - a life or general insurer not having adequate underwriting standards, and thus taking on risks at an inadequate price
+- Insurance - an insurer suffering more claims than anticipated
+- Financing - a provider of finance, such as a bank, investing in a business or project that fails to be successful
+- Exposure - a reinsurer having greater exposure than planned to a particular risk event – for example through writing whole account protection covers as well as primary reinsurance of the risk
+- a music production company promoting a CD that fails to sell
+- a competitor launching a new product in the week before your similar product launch
+- an umbrella manufacturer whose sales suffer in a drought.
+
+    It might be argued that a drought, as an external event, is an external risk.
+
+    However, the profits of the company will be so closely correlated with the amount of rainfall that the risk is key to the company's business.
+
 
 ### Operational risk and external risk
 

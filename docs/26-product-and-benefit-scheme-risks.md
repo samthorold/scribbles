@@ -2,31 +2,46 @@
 
 Relate to both contributions / premiums and benefits.
 
-Risks to beneficiary
+### Risks to beneficiary
 
 - Benefits are less valuable than expected / required
 - Benefits not received at the expected / required time
 
-Risks to the provider
+### Risks to the provider
 
 - Benefits greater than expected
 - Benefits required at an inopportune time
 
-The state is at risk of having to cover benefits private companies fail to meet.
+### Risks to the state
+
+There may be a risk for the State that it is expected to put right any losses that the public incurs.
+
+This is particularly relevant if the State provides means-tested benefits, for example a minimum income level in retirement.
+
+Means-testing is a process for establishing whether an individual is eligible to receive benefits and/or how much benefit they should receive.
+
+It is often based on an individual's income or assets or both.
+
+If an individual believes that the minimum income level is sufficient for all their needs, they would be better advised to spend surplus funds on improving their immediate lifestyle.
+
+If the surplus funds were invested to provide a future income, this income might simply reduce the sum that the State would provide by exactly the same amount.
+
+The individual would forgo immediate consumption for no increase in income later.
 
 ## Benefit risks
 
-For benefits that are _known_, the risk is that assets are not sufficient to
-meet liabilities as they fall due.
+For benefits that are **known**, the risk is that assets are not sufficient to meet liabilities as they fall due.
 
 - Underfunding
 - Insolvency of sponsor / provider
 - Asset - liability mismatching
 - Change in benefit promise (by provider or state)
-- Beneficiaries' needs not being met e.g. misunderstanding, inflation erosion,
-changed circumstances
+- Beneficiaries' needs not being met
+    - misunderstanding
+    - inflation erosion
+    - changed circumstances
 
-For benefits that are _not known_
+For benefits that are **not known**
 
 - Investment returns being lower than expected
 - Expense charges being higher than expected
@@ -45,7 +60,7 @@ For both cases
 
 ## Contribution / premium risks
 
-_Known_ in advance
+**Known** in advance
 
 - Conts / prems not affordable and so not met
 - Insufficient liquidity to make payments in a timely manner
@@ -53,7 +68,8 @@ _Known_ in advance
 increase morew rapidly than expected
 - Conts / prems are not linked to inflation so the value is eroded
 
-_Not known_ in advance - **cost and conts / prems will likely be different**.
+**Not known** in advance - **cost and conts / prems will likely be different**.
+
 Future conts / prems will depend on
 
 - Amount of promised benefit
@@ -62,8 +78,7 @@ Future conts / prems will depend on
 - Effect of inflation on the level, real level, of the benefits
 - Investment return (net of tax) on conts / prems
 
-If there is a shortfall in a defined benefit scheme, the sponsor may be
-required by legislation to make extra conts. Associated risks include
+If there is a shortfall in a defined benefit scheme, the sponsor may be required by legislation to make extra conts. Associated risks include
 
 - Lack of liquid funds
 - Excessive conts, which the sponsor may not be able to afford

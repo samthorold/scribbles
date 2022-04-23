@@ -47,6 +47,7 @@ of the bond,
 Starting point is usual market value.
 
 General DDM
-$$
+
+\[
 V = \sum_{t=1}^\infty D_tv(t)
-$$
+\]

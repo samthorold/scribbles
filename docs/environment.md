@@ -47,6 +47,8 @@ Protect consumers | Vetting and registering firms and individuals
  | Checking management and conduct of providers
  | Educating consumers and the public
 
+[Regimes](03-regulation.md#regulatory-regimes)
+
 Direct costs
 
 - Administering.

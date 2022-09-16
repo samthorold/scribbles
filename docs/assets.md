@@ -12,7 +12,9 @@ of the liabilities, and
 
 Subject to the above, the investments should also be selected so as to maximise the overall return on the assets, where overall return includes both income and capital.
 
-[Investment strategy - incl SOUNDER TRACTORS](14-choosing-an-appropriate-investment-strategy.md)
+[Investment strategy](14-choosing-an-appropriate-investment-strategy.md)
+
+[SOUNDER TRACTORS](14-choosing-an-appropriate-investment-strategy.md#factors-influencing-an-institutions-investment-strategy)
 
 ---
 

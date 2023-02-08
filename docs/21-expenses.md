@@ -127,9 +127,9 @@ Expense loading could be expressed as
 
 Expenses need to be allocated by class and function.
 
-### Allocation to class
+## Allocation to class
 
-#### Allocating direct expenses
+### Allocating direct expenses
 
 Direct expenses may arise from a department dealing purely with one class of business, in which case the expenses relating to that department can immediately be allocated to the relevant class.
 
@@ -141,7 +141,7 @@ Their costs can be allocated to each of these classes based on the time that was
 
 Staff timesheets can be used to collect this information.
 
-#### Allocating indirect expenses
+### Allocating indirect expenses
 
 The indirect expenses are harder to allocate.
 
@@ -157,7 +157,7 @@ There is no single correct approach for this, but it may help to allocate the ex
 - Charge out (e.g. computing expense)
 - In proportion with other expenses
 
-### Allocation to function
+## Allocation to function
 
 As well as apportioning expenses to a line of business, costs need to be apportioned by function, so that they can be allowed for in determining product pricing or the provisions for future liabilities.
 
@@ -199,7 +199,8 @@ An important element of a product pricing process or a process that establishes 
 
 These are required to ensure that sufficient premiums are charged or adequate provisions established to cover not only the expected claim costs, but also the costs of expenses related to administration and claims handling for the business written, including a contribution to the general fixed costs of the provider.
 
-The expense loading could be expressed as a: 
+The expense loading could be expressed as a:
+
 - percentage of premium or sum assured
 - percentage of funds under management
 - fixed amount per contract

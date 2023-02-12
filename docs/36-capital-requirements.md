@@ -63,7 +63,8 @@ best estimate basis and add on a risk margin
 
 ## Internal models
 
-[2020 September Paper 1 Q7iii](40-2020-09-01.md#7-iii)
+- [2019 April Paper 1 Q2ii](40-2019-04-01.md#2-ii)
+- [2020 September Paper 1 Q7iii](40-2020-09-01.md#7-iii)
 
 Used to calculate economic capital reqs and may be used to determine Solvency
 II SCR (provided the model is approved by the regulator).

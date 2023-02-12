@@ -361,6 +361,40 @@ Enterprise risk management is not just about reducing risk – it is also about 
 - credit rating agencies
 - regulators.
 
+Employees / board / managers
+
+- seek to identify risks
+- seek to identify ways to control risks
+- adhere to agreed risk management framework
+- report risks identified to management
+
+CRO / risk managers
+
+- risk budget will be allocated between different business units
+- allowing for the benefits of any diversification of risk across the business
+- responsible for overseeing the data collected on risk and for risk monitoring, reporting, and management
+- will define and communicate the risk governance framework
+- e.g. by setting out the key objectives in relation to risk management
+- will look for offsetting risks across the business to reduce exposure to [mortality and longevity risk]
+
+Shareholders
+
+- raise concerns about risk governance at shareholder meetings
+- and use their voting rights to instigate change.
+- will monitor firm's approach to risk and its governance
+
+Regulator / state
+
+- can require the insurer to hold sufficient capital
+- according to the insurer's risk profile
+- might provide risk checklist for insurers to use.
+
+Actuaries and other professionals
+
+- Identify, report on, and manage risks
+- depending on the role of the adviser
+- e.g. an actuary can assess the impact of different risks on the [insurer's] capital position
+
 ### Internal
 
 Whilst the board and senior management will drive governance aspects such as setting the risk appetite, all employees have a responsibility in relation to risk.

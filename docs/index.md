@@ -191,3 +191,11 @@ time, cost, expertise, complexity, flexibility, administration, data
 - Investment; SOUNDER TRACTORS, NTTCCA
 - Risk appetite
 
+### Why purchase another company?
+
+- expand
+- reduce risk
+- increase profitability
+- benefit from synergies
+- external factors.
+

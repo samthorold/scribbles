@@ -4,16 +4,39 @@
 
 - **Management controls**
     - data recording
+        - good quality data can help to reduce operational risks
     - accounting and auditing
+        - effective acct and auditing cannot change the risks accepted
+        - but enables proper provisions to be established
     - monitoring of liabilities
+        - help protect against unacceptably high aggregations of risk
+        - and help check that business mix is as expected
     - options and guarantees.
+        - experience of such opts and guars can be fed back into pricing and underwr
 
 - **Underwriting at the proposal stage** and **claims controls**
     - reasons for underwriting
+        - helps to reduce anti-selection
+        - identify risks for which special terms need to be quoted
+        - or which need to be declined.
+        - helps bring claim experience closer to that assumed when pricing
+        - classify risks into homogeneous groups for which a standard premium can be charged
     - purpose of claims controls
+        - cost of claims controls must be proportional to its benefit
+        - tight policy wording
 - Reinsurance
 - **Diversification**
     - how to achieve
+    - different lines of business
+        - age group
+        - policy type e.g. comprehensive and 3rd party
+        - gender
+        - number of lives covered
+        - vehicle type
+    - geog
+    - reins provider
+    - asset classes (e.g. bonds and cash)
+    - assets held within a class (e.g. corp bonds issued by different companies).
 - Alternative risk transfer
     - advantages
 

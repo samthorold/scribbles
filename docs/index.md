@@ -178,7 +178,7 @@ Capital, reporting, and monitoring.
 - Reserving requirements: NBS
 - Diversification and upside risks
 - Reinsurance
-- Stakeholders
+- Stakeholders - lawyers, property valuers, credit rating agencies, investment managers, actuaries, accountants / auditers, board, financial modellers, load administrator, chief risk officer, regulator
 - Providers of benefits
 - Project logical order
 - Risks; PNEFCPB, BCMLOE

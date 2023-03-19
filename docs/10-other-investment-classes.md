@@ -67,7 +67,12 @@ especially if the investments are unquoted
 Advantages of CIS
 
 - Access to expertise
+- do not need to establish team
+    - which takes time and money
+    - and in that time you are not able to invest
 - Diversification
+- can use a manager with a proven track record
+- lower key-person risk if manager is large
 - Some direct costs of investment are avoided
 - Holdings are divisible
 - Possible tax advantages
@@ -78,6 +83,12 @@ Disadvantages
 - Loss of control
 - Management charges incurred
 - Possible tax disadvantages
+- additional operational and external risks
+- does not remove the need for some expertise
+    - carry out initial due diligence on the investment manager
+    - set a risk appetite and investment mandate
+    - carry out ongoing oversight and review of the investment manager and the asset held
+    - set up capital models and calibration for economic and statutory capital
 
 ---
 

@@ -64,6 +64,7 @@ Ideas
 
 #### Credit
 
+- poor financial strength of [x]
 - deterioration in credit rating
 - lack of diversification
 - time to recovery
@@ -72,14 +73,26 @@ Ideas
 
 #### Market
 
+- value of [x] high / low relative to [collateral]
+- low rents
 - x doesn't increase as expected
 - economic risks
+    - interest rate risk - PV of cashflows - value of underlying asset
+    - lending req's become more stringent
 
 #### Liquidity
 
+- difficult to realise investment - because [x]
+- may need to sell below market price to accelerate sale
+
 #### Business
 
+- CALL ST if underlying asset is property
+
 #### Operational
+
+- poorly drafted contract
+- fraud
 
 
 

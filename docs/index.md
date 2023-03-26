@@ -2,6 +2,13 @@
 
 - State the obvious
 - Split points into multiple, overlapping sentences
+- Try to find the one or two sentence overarching theme ...
+- ... at least to guide the headers.
+    - risk v reward
+    - aims of gov't / regl
+    - ACC
+    - Risk mgmt
+- include lots of points, but not much detail on each
 - If in doubt, just go with something and aim for breadth
     - cross-credit is given where qus can reasonably be said to overlap
 - Really, state the obvious
@@ -174,7 +181,7 @@ Capital, reporting, and monitoring.
 - Tax
 - Currency
 - Regulation
-- Economic environment: Inflation, interest rates, E(R), ... and changes in
+- Economic environment: Inflation, interest rates, E(R), volatility, corr, ... and changes in
 - Reserving requirements: NBS
 - Diversification and upside risks
 - Reinsurance

@@ -34,6 +34,31 @@ SAFARI
 
 ---
 
+- Medical underwriting
+- Lifestyle underwriting (e.g. occupation, leisure, pursuits, country)
+- Financial underwriting
+
+---
+
+Process
+
+Key risk is under/over estimating [mortality].
+
+- Obtaining information
+    - costs of obtaining may change
+    - systems
+    - translation
+- T&Cs should reflect market
+- Amount of underwriting should reflect sum assured / costs
+- actually carrying out the medical / fin / lifestyle underwr
+    - expertise (local)
+    - particulars of local mortality
+    - assessing income
+        - data availability
+        - prevalence of fraud
+
+---
+
 [2020 April Paper 1 Q6i](40-2020-04-01.md#6-i)
 
 Underwriting generally refers to the assessment of potential risks so that

@@ -74,6 +74,8 @@ Ideas
 #### Market
 
 - value of [x] high / low relative to [collateral]
+- interest rates
+    - fixed investments no longer earn attractive return
 - low rents
 - x doesn't increase as expected
 - economic risks
@@ -84,15 +86,21 @@ Ideas
 
 - difficult to realise investment - because [x]
 - may need to sell below market price to accelerate sale
+- timing of cashflows all near the end of the term of the contract
 
 #### Business
 
 - CALL ST if underlying asset is property
+- longevity
+- mortality
+- early repayment
 
 #### Operational
 
 - poorly drafted contract
 - fraud
+- poor management of data and the underwriting process
+- accused of mis-selling the product e.g. if high pressure selling techniques are used
 
 
 
@@ -100,6 +108,7 @@ Ideas
 
 - [CREATE GRAND LISTS](environment.md) - changes in each.
 - [Regulation](03-regulation.md) - changes in.
+- competitors offer a more attractive product.
 
 ## Project
 

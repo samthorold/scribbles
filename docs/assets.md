@@ -8,13 +8,43 @@ A provider should select investments that are appropriate to the:
 
 of the liabilities, and
 
-- the provider’s appetite for risk.
+- the provider's appetite for risk.
 
 Subject to the above, the investments should also be selected so as to maximise the overall return on the assets, where overall return includes both income and capital.
 
 [Investment strategy](14-choosing-an-appropriate-investment-strategy.md)
 
 [SOUNDER TRACTORS](14-choosing-an-appropriate-investment-strategy.md#factors-influencing-an-institutions-investment-strategy)
+
+---
+
+If nothing at all springs to mind ...
+
+- return
+    - Investors' preferences will be driven by the expected return on a particular asset class ...
+    - ... which will be linked to its risk premium, which in turn will depend on the characteristics of the asset.
+- risk
+    - Investors' preferences will be driven by their understanding of the risks of each asset class.
+- matching
+    - Investors' preferences will be driven by their liabilities and any changes to their liabilities ...
+    - ... so the nature, term, certainty and currency of liabilities will influence their preferences.
+- cashflows
+    - Investors' preference for income or capital growth from investments is driven by their cashflow requirements.
+- Tax
+    - If investors pay different tax rates on income and gains this will influence their preference ...
+    - ... as will any changes in the tax regime impacting the income and gains available from an asset class.
+- Supply and demand
+    - Investors' preferences will be driven by the supply of and demand for a particular asset class ...
+    - ... and any significant changes to economic conditions.
+- Other factors that affect investors' preferences:
+    - changes in the regulatory regime
+    - the level of education provided to investors
+    - the price of alternative investments
+    - the introduction of new asset classes
+    - any uncertainty in the political climate
+    - ‘fashion', sentiment or ethical issues
+    - marketing
+    - sometimes no discernible reason.
 
 ---
 
@@ -28,7 +58,7 @@ The institution should consider the expected long-term returns from different as
 
 The institution should choose investments that are in line with its risk appetite.
 
-The institution’s chosen strategy may wish to closely match its liabilities by:
+The institution's chosen strategy may wish to closely match its liabilities by:
 
 - nature
 - currency

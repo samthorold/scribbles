@@ -64,11 +64,19 @@ means they also need capital for
 - Meet benefits before sufficient prems / conts received
 - Development expenses
 - Cushion against unexpected events
+    - diff target market
+    - lack of data [for age group]
+    - uncertainty re key assumps [mortality, expense allowances, bus volumes]
 - Statutory solvency reqs
 - Invest more freely (mismatch)
 - Sell products with guarantees
 - Demonstrate financial strength to attract more business
 - Achieve strategic aims
+- Expenses of launching a new product
+    - dev systems
+        - to administer pols
+    - diff sales channels
+- new premises
 
 ## The state
 
@@ -113,7 +121,7 @@ Effectiveness of tools depends on the regulatory and tax environment.
 ### Financial reinsurance
 
 - Aim is to exploit some form of regulatory arbitrage to improve capital position.
-- Basically, crystallise vakue of future profits.
+- Basically, crystallise value of future profits.
 - Generally, relies on reinsurer being in a different tax / regulatory / solvency regime.
 - E.g. loan from reinsurer to firm where repayments are contingent on future profits
 arising on a specific block of business e.g. [...]

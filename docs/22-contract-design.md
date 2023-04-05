@@ -1,5 +1,7 @@
 The following factors apply to any contract
 
+AMPLE DIRECT FACTORS
+
 - Customer needs and interests
 - Characteristics of other stakeholders involved in contract design
 - Risk appetite of parties involved
@@ -20,6 +22,44 @@ The following factors apply to any contract
 - Consistency with other products
 - Admin systems
 - Accounting implications
+
+## profits
+
+- Premiums net of reinsurance
+- \+ investment income
+- \- claims net of reinsurance
+- \- expenses and commission
+- \- increase in provisions
+- \- increase in cost of capital
+- \- Tax
+- = profit
+
+### contract profit assumptions
+
+- premium rates per policy
+- sales volumes and mix of business
+- investment returns, eg bond yields, dividend yields and growth
+- expense levels
+- expense inflation
+- commission rates
+- mortality rates
+- morbidity rates
+- withdrawal rates
+- separate assumptions to calculate the provisions (these assumptions may be more prudent than those used above), for example a valuation interest rate, valuation mortality rates
+- solvency capital requirements
+- tax rates
+- reinsurance premium rates and recovery rates.
+
+
+### contract other factors
+
+- meeting customer needs
+- the type of benefit offered – level, form (i.e. income or lump sum), options, guarantees, when it is payable
+- marketability
+- competition
+- financing requirements
+- simple administration
+- consistency with other products.
 
 ## Parties involved
 

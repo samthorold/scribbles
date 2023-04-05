@@ -33,7 +33,7 @@
         - gender
         - number of lives covered
         - vehicle type
-    - geog
+    - geog; from, to, through
     - reins provider
     - asset classes (e.g. bonds and cash)
     - assets held within a class (e.g. corp bonds issued by different companies).

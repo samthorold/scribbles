@@ -29,6 +29,18 @@ Influencing factors include
 
 Once a price is chosen, it should be profit and market tested.
 
+## Issues pricing products
+
+- Data
+- Assumptions
+    - freq
+    - sev
+    - business volumes
+    - business mix
+- wider objectives
+    - profit loadings
+    - contingency margins for uncertainty
+
 ## Incidence of monies paid in
 
 Main methods of financing benefits are

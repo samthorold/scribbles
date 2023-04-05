@@ -37,9 +37,7 @@ nav:
     - "Liabilities": liabilities.md
     - "Assets": assets.md
     - "Risk": risk.md
-    - "Modelling": modelling.md
     - "Capital": capital.md
-    - "Contracts": contracts.md
     - "Ch01: Actuarial Advice": 01-actuarial-advice.md
     - "Ch02: External Environment": 02-external-environment.md
     - "Ch03: Regulation": 03-regulation.md

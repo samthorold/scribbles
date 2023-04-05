@@ -100,3 +100,5 @@ to retire at a certain age.
     - current
 - Saving for retirement
 - Protection from injury and illness
+- School fees
+

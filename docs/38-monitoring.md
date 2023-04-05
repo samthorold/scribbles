@@ -13,6 +13,8 @@ experience
 actions
 - Provide management (and other key stakeholder) information
 
+more frequent for new business
+
 ---
 
 Monitoring can help in:

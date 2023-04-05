@@ -17,6 +17,77 @@
 - Use the words of the question ...
 - ... at least to guide headers
 
+## Idea Generation
+
+- Tax
+- Currency
+- Regulation - [regimes](03-regulation#regulatory-regimes)
+- Economic environment: Inflation, interest rates, E(R), volatility, corr, ... and changes in
+- Reserving requirements: NBS
+- Diversification and upside risks
+- Reinsurance
+- Stakeholders - lawyers, property valuers, credit rating agencies, investment managers, actuaries, accountants / auditers, board, financial modellers, loan administrator, chief risk officer, regulator
+- Providers of benefits
+- Project logical order
+- Risks; PNEFCPB, BCMLOE
+- ACC
+- Assumptions
+    - what are the key risks / assumptions?
+- CREATE GRAND LISTS
+- Matching; NTTCCA, SYSTEM T
+- Options and guarantees
+- Practicalities and constraints;
+time, cost, expertise, complexity, flexibility, administration, data
+- Investment; SOUNDER TRACTORS, NTTCCA
+- Risk appetite
+- Objectives
+- Goals of benefit providers (ch5)
+- Customer need (ch4)
+- Modelling
+    - stochastic vs deterministic
+    - purpose of model
+    - data available
+    - actual data vs model points - creating model points
+    - checks on model; mean value and a range of other points vs deterministic
+    - correlations
+    - tail risk
+    - sensitivity to economic conditions
+    - peer review + consultants + back of envelope review
+- Risk controls
+    - Reduce probability of claim occurring
+        - includes diversification + underwriting (denying cover)
+        - can think outside MURDA here to tailor to question e.g. avoid [a country], require [well run vehicles], consult experts to understand risk better which may help reduce likelihood.
+    - Limit the severity / consequences of a claim
+        includes underwriting (special terms) + claims controls
+    - risk management tools [MURDA](risk#risk-management-tools)
+- Expenses
+    - Variable: change in line with sales or claims.
+        - commission
+        - stationary
+        - policy admin
+        - investment
+        - policy termination
+    - Fixed: must be paid whether or not the business is profitable.
+        - rent
+        - utilities
+        - staff salaries
+        - equipment
+        - pension scheme conts
+        - marketing
+        - fees for advisors
+        - insurance - commercial buildings and contents
+    - Time frame
+        - pre-launch - including feasibility in first place
+        - ongoing
+
+### Why purchase another company?
+
+- expand
+- reduce risk
+- increase profitability
+- benefit from synergies
+- external factors.
+
 ## ACC
 
 [2020 September Paper 1 Q2](40-2020-09-01.md#2)
@@ -175,34 +246,3 @@ Contracts and the data, modelling, and assumptions required to price them.
 Risk.
 
 Capital, reporting, and monitoring.
-
-## Idea Generation
-
-- Tax
-- Currency
-- Regulation
-- Economic environment: Inflation, interest rates, E(R), volatility, corr, ... and changes in
-- Reserving requirements: NBS
-- Diversification and upside risks
-- Reinsurance
-- Stakeholders - lawyers, property valuers, credit rating agencies, investment managers, actuaries, accountants / auditers, board, financial modellers, load administrator, chief risk officer, regulator
-- Providers of benefits
-- Project logical order
-- Risks; PNEFCPB, BCMLOE
-- ACC
-- CREATE GRAND LISTS
-- Matching; NTTCCA, SYSTEM T
-- Options and guarantees
-- Practicalities and constraints;
-time, cost, expertise, complexity, flexibility, administration, data
-- Investment; SOUNDER TRACTORS, NTTCCA
-- Risk appetite
-
-### Why purchase another company?
-
-- expand
-- reduce risk
-- increase profitability
-- benefit from synergies
-- external factors.
-

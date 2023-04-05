@@ -1,4 +1,18 @@
 
+Definition of benefits
+
+- For each of the products it is important to know whether a benefit is paid on death, maturity, surrender or some other event (e.g. becoming ill).
+
+Use of the product to meet customers' needs
+
+Whether a group version exists
+
+- As the name suggests, a group version of a contract is a contract that covers a group of lives.
+- The group is specified (eg all employees of a particular company) but not necessarily the individuals within it.
+
+
+## Group policies
+
 Group policies are characterised by:
 
 - only covering employees whilst they work for the company (ie benefit ceases on leaving or retirement)

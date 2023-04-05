@@ -72,7 +72,34 @@ II SCR (provided the model is approved by the regulator).
 Internal models aim to create a stochastic model that reflects a company's
 business structure.
 
-Used for
+### Advantages and disadvantages of internal model
+
+
+
+Advantages
+
+- The internal model can allow for the particular risks faced by this insurer ...
+- ... whereas the standard model reflects risks for the average insurer in the industry.
+- The internal model may suggest a lower level of capital is required.
+- The insurer may be subject to risks that are not covered by the standard model ...
+- ... and these risks can be included in the internal model.
+- The internal model can better allow for any diversification benefits enjoyed by the insurer.
+- The insurer can use assumptions that better reflect its business.
+- Approximations included in the standard model can be removed.
+- The insurer can model its own risks to increase its understanding of them.
+
+Disadvantages
+
+- There will be a significant cost to creating and maintaining the model.
+- The insurer will need expertise (that it may lack) to create the model.
+- It may be time consuming to get regulatory approval for the model.
+- If the insurer is similar to the average insurer, there are limited benefits from creating an internal model.
+- It may only be appropriate for large insurers, due to the cost and expertise required.
+- It may be difficult to justify a lower capital requirement to the regulator ...
+- ... the insurer may need to run both models.
+- It may be that an expected reduction in capital requirements does not materialise.
+
+### Used for
 
 - Calculate economic capital using different risk measures e.g.
 VaR and Tail VaR

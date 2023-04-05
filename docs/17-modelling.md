@@ -23,6 +23,11 @@ Modelling is central to many of the chapters that follow. In particular:
 
     and **valuing liabilities**.
 
+The results from the model depend on the model itself and the values assigned to the parameters in the model.
+
+Models should not be treated as black boxes, the output of which is assumed to be correct.
+
+
 ## Producing a solution
 
 *why models are often used to arrive at a solution to an actuarial problem*

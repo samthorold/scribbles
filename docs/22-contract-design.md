@@ -1,4 +1,24 @@
-The following factors apply to any contract
+NB: expert / domain knowledge useful when designing contracts
+
+- exclusions
+- pricing
+- application + underwriting process
+
+---
+
+The following factors apply to any contract.
+
+Launching a new product.
+
+- Financing
+- Risk - including diversification benefits
+- Profitability
+- Competition
+- Administration / practicalities
+- Regulation - price caps / forced to always quote
+- Marketability - sales channels
+- Interests of customers
+- ACC
 
 AMPLE DIRECT FACTORS
 

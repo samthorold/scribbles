@@ -1,3 +1,10 @@
+Like many markets, an unregulated market for financial services may not produce an economically optimal outcome, in which all investors make the best investment decisions and risk is allocated optimally throughout the economy.
+
+The most important cause of market failure in financial services markets is likely to be the **lack of (perfect) information available**, in particular to private investors, concerning the financial services that they are buying and the risks being taken by the institutions in which they invest.
+
+To counteract this problem, the market for financial services is usually subject to some form of regulation. Indeed, given the nature of financial services – ie their **complexity, their often long-term nature and the potentially large sums of money involved** – the extent of regulation within the financial service sector is often much greater than that found in the markets for other goods and services.
+
+
 ## Aims of regulation
 
 [2020 September Paper 1 Q9i](40-2020-09-01.md#9-i)
@@ -23,7 +30,13 @@
 ## Direct costs
 
 - Administering the regulation
+    - collection and examination of information provided by market participants
+    - otherwise monitoring their activities.
 - Compliance for the regulated firms
+    - maintaining appropriate records
+    - collating the requisite information
+    - supplying it to the regulator and/or the investor.
+    
 
 ## Indirect costs
 
@@ -86,10 +99,6 @@ Each of these regimes can adopt any of the following forms
 - Freedom of action: rules only on publicity of information
 - Outcome-based: prescribed tolerated outcomes
 
----
-
-
-
 ## Role of major financial institutions
 
 Major financial institutions support the regulatory framework
@@ -102,3 +111,15 @@ last resort
     - allow smaller participants to find niche markets
     - but, may distort the  market and use up too much of the regulator's
     resources
+
+## Treating consumers fairly
+
+**Information asymmetry**
+
+1. Consumers can be confident that they are dealing with firms where the fair treatment of customers is central to the corporate culture.
+2. Products and services marketed and sold in the retail market are designed to meet the needs of identified consumer groups and are targeted accordingly.
+3. Consumers are provided with clear information and are kept appropriately informed before, during and after the point of sale.
+4. Where consumers receive advice, the advice is suitable and takes account of their circumstances.
+5. Consumers are provided with products that perform as firms have led them to expect, and the associated service is of an acceptable standard and as they have been led to expect.
+6. Consumers do not face unreasonable post-sale barriers imposed by firms to change product, switch provider, submit a claim or make a complaint.
+

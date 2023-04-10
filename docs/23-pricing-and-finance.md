@@ -41,6 +41,45 @@ Once a price is chosen, it should be profit and market tested.
     - profit loadings
     - contingency margins for uncertainty
 
+## Reviewing pricing
+
+- components of cost
+- analysis of experience
+- review exercise itself - modelling outcomes and risk mitigation
+
+Modelled cost
+
+- expected cost of the product from
+    - value of benefits
+    - value of expenses
+    - value of margins, e.g. for profits
+- different scenarios can be modelled
+- using a deterministic or stochastic approach
+
+Experience analysis
+
+- Data will be needed to analyse experience
+- Data may come from a range of sources e.g. past experience, reinsurer, etc.
+- Analyse experience over previous years to see if [the event] can be considered unusual
+    - trends and random variation
+    - abnormal events
+    - which if not expected to recur may be ignored for future pricing
+    - e.g. a 1-in-200 year event
+- wider review of all experience and assumptions can be carried out
+- ACC could be used to carry out the review
+- Certain industries or locations may be more exposed to accidents
+- so it may be important to review the underwriting for different industries or locations.
+
+Practical issues
+
+- May need external expertise
+- e.g. an actuarial consultancy could be appointed.
+
+Risk management
+
+- Consider whether risk management options can be used to reduce the cost of claims
+- e.g. through greater use of reinsurance.
+
 ## Incidence of monies paid in
 
 Main methods of financing benefits are

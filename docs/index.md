@@ -29,7 +29,7 @@
 - Stakeholders - lawyers, property valuers, credit rating agencies, investment managers, actuaries, accountants / auditers, board, financial modellers, loan administrator, chief risk officer, regulator
 - Providers of benefits
 - Project logical order
-- Risks; PNEFCPB, BCMLOE
+- Risks; PNEFCPB, BCMLOE, PIRATE
 - ACC
 - Assumptions
     - what are the key risks / assumptions?
@@ -53,6 +53,7 @@ time, cost, expertise, complexity, flexibility, administration, data
     - tail risk
     - sensitivity to economic conditions
     - peer review + consultants + back of envelope review
+- Data - credible and relevant, sources, checks, heterogeneity
 - Risk controls
     - Reduce probability of claim occurring
         - includes diversification + underwriting (denying cover)
@@ -79,6 +80,12 @@ time, cost, expertise, complexity, flexibility, administration, data
     - Time frame
         - pre-launch - including feasibility in first place
         - ongoing
+- Features of projects
+    - size
+    - risk and return
+    - overseas
+    - existing plans
+- reactions of stakeholders
 
 ### Why purchase another company?
 
@@ -227,6 +234,62 @@ General Commercial and Economic Environment
 Professionalism
 
 - [Actuarial advice](01-actuarial-advice.md)
+
+---
+
+### Chapter summaries
+
+Actuarial control cycle
+
+- stages and what is covered under each
+
+Actuarial advice
+
+- clients and stakeholders
+- areas can give advice on
+- managing conflicts of interest
+- types of advice: FIR
+- issues to consider when presenting advice
+- IFoA's professionalism framework
+
+External environment
+
+- key external factors: CREATE GRAND LISTS
+
+Regulation
+
+- aims: GRIP
+- costs - direct vs indirect
+- why particularly important for financial markets
+- anti-selection and moral hazard
+- functions of a regulator: SERVICE
+- types and forms of regulation
+- treating customers fairly
+- roles of major financial institutions
+
+Financial products and customer need
+
+- definitions of main classes of financial product
+- key principles of insurance: insurable interest, pre-funding, pooling of risk
+- needs: logical vs emotional, current vs future
+
+General insurance products
+
+- cover provided, perils, compulsory, indemnity vs fixed
+
+Life insurance products
+
+- benefits provided
+- customer needs met
+- features of investment types: w'out profit, w' profit, unit-linked, index-linked
+
+Benefits and providers
+
+- roles and objectives of providers (state, employers, individuals)
+- DB and DC schemes - features, pros and cons to members and sponsor
+- flexible benefit schemes
+
+
 
 ---
 

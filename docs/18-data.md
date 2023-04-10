@@ -163,6 +163,7 @@ Main sources of data are;
 
 - Public data
 - Internal data
+    - proposal form
 
 ## Data quality
 
@@ -190,6 +191,11 @@ Information is provided by the sponsor, rather than being under the direct
 control of the actuary.
 
 ## Checks on data
+
+- reconciliation
+- cross checks
+- reasonableness
+- spot
 
 Past data can be used to help verify current data.
 

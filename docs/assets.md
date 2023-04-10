@@ -95,7 +95,33 @@ The institution should consider whether it will continue to accrue further liabi
 
 ---
 
+## Comparing asset classes / investments
+
 SYSTEM T - general characteristics rather than risk characteristics specifically
+
+- Security (risk)
+- Yield (return)
+- Spread
+- Term
+- Expenses / Exchange rate
+- Marketability
+- Tax
+
+Return
+
+Risk
+
+Expense
+
+Marketability
+
+Control
+
+Expertise
+
+Tax
+
+Direct vs Indirect investment
 
 ---
 
